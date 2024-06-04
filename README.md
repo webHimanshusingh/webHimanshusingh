@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coder" width="400" src="C:\Users\himanshu kumar singh\OneDrive\Desktop\frontend developer\Developer Roed map\jQuery\coder.jpeg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webhimanshusingh&label=Profile%20views&color=0e75b6&style=flat" alt="webhimanshusingh" /> </p>
 
 - 🔭 I’m currently working on **portfolio**
